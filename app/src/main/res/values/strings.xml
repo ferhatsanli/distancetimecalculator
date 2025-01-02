@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Road Time Calculator</string>
+    <string name="km0">0 km</string>
+    <string name="calculate">Calculate</string>
+    <string name="distance">Distance:</string>
+    <string name="speed">Speed:</string>
+    <string name="estimated_time_0">Estimated time: 0</string>
+    <string name="kmh0">0 km/h</string>
+</resources>
